@@ -1,0 +1,11 @@
+# Archivos y carpetas a ignorar (ejemplos comunes)
+*.log
+*.txt
+*.docx
+*.pdf
+*.zip
+*.o
+/temp/
+.vscode/
+node_modules/
+mi_archivo_secreto.txt
