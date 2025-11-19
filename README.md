@@ -44,8 +44,8 @@ if (x) {  // x se convierte automáticamente a bool
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/ast-compiler.git
-cd ast-compiler
+git clone https://github.com/EdMaker1/Compilers/Analizador_Semantico
+cd ast
 
 # Compilar el proyecto
 make
